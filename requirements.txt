@@ -1,1 +1,7 @@
+streamlitfastapi
+uvicorn
+requests
+pandas
 streamlit
+pydantic
+joblib
